@@ -1,0 +1,1 @@
+ENV_FILE=./env/.env.dev docker-compose up -d --build
