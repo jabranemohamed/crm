@@ -8,15 +8,15 @@
 ## Feature
 
 ### Front
-- 1 . Authentification en utilisant JWT
+- 1 . Authentification using JWT
 - 2 . MFA avec Twilio
-- 3 . Export de table en Excel
-- 4 . Export de facteur en PDF en utilisant (jspdf)
+- 3 . Export html table to Excel
+- 4 . Export invoice to PDF using (jspdf)
 - 5 . Guard, Lazy Module ....
 
 ### Back
-- 6 . Envoi de mail de vérification (spring-boot-starter-mail)
-- 7 . MFA communication avec Twilio(com.twilio.sdk)
+- 6 . Sending verification email using spring-boot-starter-mail and template 
+- 7 . MFA communication with Twilio(com.twilio.sdk)
 - 8 . YAUAA(https://yauaa.basjes.nl/)
 - 9 . MYSQL classique
 
